@@ -1,0 +1,19 @@
+{
+	"pt": {
+		"SKILL_NAME": "Dicionário Virtual",
+		"HELP_MESSAGE": "Você pode me perguntar pelo significado de uma palavra no Dicionário dizendo: Alexa, peça ao dicionário Virtual o significado da palavra; e então diga a palavra.",
+		"HELP_REPROMPT": "Vamos começar?",
+		"FALLBACK_MESSAGE": "Não encontrei essa palavra no Dicionário",
+		"FALLBACK_REPROMPT": "Eu posso procurar significados de palavras no Dicionário, pra isso, basta dizer: Alexa, peça ao dicionário Virtual o significado da palavra; e então diga a palavra.",
+		"ERROR_MESSAGE": "Desculpa, algo deu errado.",
+		"EXCEPTION_MESSAGE" : "Desculpa, algo deu errado.",
+		"STOP_MESSAGE": "Tchau!",
+		"DONT_UNDERSTANG_MESSAGE": "Não Entendi. Por favor, tente novamente",
+		"UNkNOWN_WORD_MESSAGE": "Não encontrei a palavra {} no Dicionário",
+		"DEFINITION_MESSAGE": "O significado da palavra {} é: {}",
+		"WELCOME_MESSAGE": "Bem vindo ao Dicionário Virtual. Para consultar uma palavra, basta dizer: 'Alexa, peça ao dicionário Virtual o significado da palavra'; e então diga a palavra."
+	},
+	"pt-BR": {
+		"SKILL_NAME": "Dicionário Virtual"
+	}
+}
